@@ -148,7 +148,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Elibyy\TCPDF\ServiceProvider::class,
         Barryvdh\DomPDF\ServiceProvider::class,
-        Meneses\LaravelMpdf\LaravelMpdfServiceProvider::class,
+        Mccarlosen\LaravelMpdf\LaravelMpdfServiceProvider::class,  // Changed from Meneses to Mccarlosen
         
         /*
          * Package Service Providers...
